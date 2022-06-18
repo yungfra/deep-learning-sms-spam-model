@@ -1,0 +1,6 @@
+pandas 
+numpy
+tensorflow
+gradio
+jinja2
+matplotlib
