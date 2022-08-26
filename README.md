@@ -16,4 +16,4 @@ I also created an app in Gradio that uses this model in order to test it.
 - Gradio
 
 ## Conclusions
-Do you want to know if the SMS you received is spam or not? Try this model!
+Do you want to know if the SMS you received is **spam** or **not**? Try this model!
